@@ -1,0 +1,3 @@
+[submodule "SDLWrapper"]
+	path = SDLWrapper
+	url = https://github.com/kiritow/SDLWrapper
